@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"helloworld3/test"
+	"github.com/rayln/helloworld3/test"
 )
 
 func main() {

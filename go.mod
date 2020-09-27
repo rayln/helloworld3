@@ -1,3 +1,3 @@
-module helloworld_3
+module helloworld3
 
 go 1.14
